@@ -4,5 +4,5 @@
 """
 
 def solution(s):
-    l = list(map(int, s.split()))
-    return "{} {}".format(min(l), max(l))
+    integer_list = list(map(int, s.split()))
+    return "{} {}".format(min(integer_list), max(integer_list))
