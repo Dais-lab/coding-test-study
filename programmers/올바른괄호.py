@@ -17,3 +17,4 @@ def solution(s):
     if (count != 0) | (left != right): # count가 0이 아니거나 '('와 ')' 개수가 다르면 false
         answer = False
     return answer
+
