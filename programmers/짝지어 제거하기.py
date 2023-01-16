@@ -10,3 +10,4 @@ def solution(s):
             리스트.append(i)
         
     return int(리스트 == [])
+    
